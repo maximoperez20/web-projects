@@ -1,0 +1,25 @@
+body {
+  background-color: #edf4f2;
+}
+
+hr {
+  border: 2px;
+  border-style: dotted none none;
+  border-width: 8px;
+  border-color: grey;
+  width: 8%;
+}
+
+h1 {
+  color: #303960;
+  font-style: italic;
+}
+
+h3 {
+  color: #0e9aa7;
+}
+
+.uppercase {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
