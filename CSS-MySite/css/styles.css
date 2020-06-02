@@ -1,28 +1,15 @@
-body{
-    margin: 0px;
-
-}
-h1{
-    margin-top: 0px;
-}
-.top-container{
-    background-color: azure;
-    margin-top: 0px;
-    width: 200px;
+.clouds {
+    position: absolute;
+    background-image: url("../images/cloud.png");
     height: 200px;
-    border: 10px solid;
-    padding: 20px;
-    }
-.middle-container{
-    background-color: red;
     width: 200px;
-    height: 200px;
-        border: solid 20px;
+    background-repeat: no-repeat;
 }
-.bottom-container{
-    background-color: yellow;
-    width: 200px;
-    height: 200px;
-
-    border: solid 10px;
+#top-cloud{
+    top: 20px;
+    left: 800px;
+}
+#bottom-cloud{
+    top: 180px;
+    left: 460px;
 }
