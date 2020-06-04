@@ -1,3 +1,17 @@
+.top-container{
+  width: auto;
+  height: auto;
+}
+
+.middle-container{
+  width: auto;
+  height: auto;
+}
+
+bottom-container{
+  width: auto;
+  height: auto;
+}
 .clouds {
   position: absolute;
   background-image: url("../images/cloud.png");
@@ -22,4 +36,7 @@ p {
 h2,
 h3 {
   font-family: "Tenali Ramakrishna", sans-serif;
+}
+body{
+  background-color: #fcf7f4;
 }
