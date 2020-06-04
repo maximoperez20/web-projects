@@ -8,9 +8,11 @@
   height: auto;
 }
 
-bottom-container {
+.bottom-container {
   width: auto;
   height: auto;
+  background-color: #66BFBF ;
+  margin: 0;
 }
 .clouds {
   position: absolute;
@@ -29,31 +31,42 @@ bottom-container {
 }
 h1 {
   font-family: "Architects Daughter", cursive;
-  color: #22f1f1;
+  color: #66BFBF;
 }
 p {
   font-family: "Tenali Ramakrishna", sans-serif;
   font-size: 2em;
+  line-height: 1,5;
 }
-h2,
-h3 {
+h2{
+  color: #66BFBF;
+  font-size: 35px;
+}
+h3{
   font-family: "Tenali Ramakrishna", sans-serif;
   font-size: 2.5em;
+  color: #11999E;
+
+}
+a {
+  color: #11999E;
+  margin: auto 6px;
+  font-size: 20px;
+  text-decoration: none;
 }
 body {
   background-color: #fcf7f4;
+  
 }
 .skill-row {
   margin: 30px 25% 30px 25%;
   text-align: center;
 }
-.myrank {
-  width: 50%;
+.computer-img{
   border-radius: 100%;
   float: left;
 }
-.mycars {
-  width: 50%;
-  border-radius: 100%;
-  float: right;
+.contact-me{
+  border-top: solid 2px black;
+  padding-top: 30px;
 }
