@@ -1,18 +1,11 @@
 .top-container {
-  width: auto;
-  height: auto;
 }
 
 .middle-container {
-  width: auto;
-  height: auto;
 }
 
 .bottom-container {
-  width: auto;
-  height: auto;
-  background-color: #66BFBF ;
-  margin: 0;
+  background-color: #66bfbf;
 }
 .clouds {
   position: absolute;
@@ -31,42 +24,61 @@
 }
 h1 {
   font-family: "Architects Daughter", cursive;
-  color: #66BFBF;
+  color: #66bfbf;
 }
 p {
   font-family: "Tenali Ramakrishna", sans-serif;
   font-size: 2em;
-  line-height: 1,5;
+  line-height: 1, 5;
 }
-h2{
-  color: #66BFBF;
+h2 {
+  color: #66bfbf;
   font-size: 35px;
 }
-h3{
+h3 {
   font-family: "Tenali Ramakrishna", sans-serif;
   font-size: 2.5em;
-  color: #11999E;
-
+  color: #11999e;
 }
 a {
-  color: #11999E;
+  color: #11999e;
   margin: auto 6px;
   font-size: 20px;
   text-decoration: none;
 }
 body {
   background-color: #fcf7f4;
-  
+  margin: 0;
 }
 .skill-row {
-  margin: 30px 25% 30px 25%;
+  margin: 50px auto 50px auto;
+  width: 50%;
   text-align: center;
 }
-.computer-img{
+
+.computer-img {
   border-radius: 100%;
   float: left;
+  width: 30%;
 }
-.contact-me{
+.chillies-img {
+  border-radius: 100%;
+  float: right;
+  width: 30%;
+}
+
+.contact-me {
   border-top: solid 2px black;
   padding-top: 30px;
+}
+.profile {
+  margin: 100px 0 100px;
+}
+.skills {
+  margin: 130px 0 130px;
+}
+hr {
+  border: dotted grey 21px;
+  width: 10%;
+  border-bottom: none;
 }
