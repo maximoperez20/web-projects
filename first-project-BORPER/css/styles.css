@@ -1,0 +1,39 @@
+
+body{
+    
+}
+
+/* Navigation Bar  */
+#navigation-bar{
+    background-color: rgb(41, 40, 40);
+}
+.navbar-brand{
+font-family: "Concert One";
+font-size: 3rem;
+}
+
+
+
+/* Principal section or title  */
+#title{
+    background-color: rgb(165, 184, 178);
+    padding: 10% 7%;
+    text-align: center;
+    
+    
+}
+
+.main-text{
+    text-align: left;
+    color: #fff;
+    font-family: "Archivo Black";
+    line-height: 1.5;
+    font-size: 3.5rem;
+}
+.main-img{
+    border-radius: 100%;
+    width: 70%;
+    border:;
+}
+
+

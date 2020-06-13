@@ -89,3 +89,13 @@ h3 {
   width: 15%;
   padding: 3rem 1.6rem 3rem;
 }
+
+
+/* Pricing */
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
